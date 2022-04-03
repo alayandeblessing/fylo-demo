@@ -1,0 +1,361 @@
+body{
+    background-color:hsl(217, 28%, 13%);
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    color: whitesmoke;
+}
+ul li{
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 12px;
+    position: relative;
+    left: 90em;
+    bottom: 5em;
+    color: grey;
+}
+.img1{
+    padding-top: 4rem;
+    padding-left: 8rem;
+
+}
+.navbar{
+    padding-top: 1em;
+    margin-left: 3em;
+    margin-right: -2em;
+}
+.sec2{
+    /* display: flex; */
+justify-content: center;
+align-items: center;
+width: 100%;
+color: white;
+}
+h3{
+    width:650px;
+    color:hsl(0, 0%, 100%);
+    font-size: 2.5em;
+    line-height: 1.5em;
+    align-items: center;
+    margin: auto;
+    font-weight: 300;
+    text-align: center;
+}
+.sec2 p{
+ margin: auto;   
+ justify-content: center;
+ width:550px;
+ color:hsl(0, 0%, 100%);
+ font: size 1em;
+ font-weight:400;
+ line-height:1em;
+ text-align: center;
+}
+.sec2 button{
+    margin: auto;
+    display: flex;
+    margin-top: 1em;
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    padding-left: 40px;
+    padding-top: 5px;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    background-image:linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+    color:white;
+}
+.section2{
+    width:100%;
+    background-color:hsl(217, 28%, 13%);
+    padding-top:150px;
+    font-size: 1em;
+    background-image: url(./image/images/bg-curvy-mobile.svg);
+    display:inline-grid;
+    
+}
+.system{
+    justify-self: left;
+    font-size: 1em;
+    width: 100%;
+    margin: auto;
+}
+.system img{
+    padding-left: 13rem;
+    margin-top: -1em;
+}
+.system h3{
+    width: 50%;
+    font-size: 20px;
+   padding-right: 45rem;
+}
+.system p{
+    width: 350px;
+    text-align: center;
+    padding-left: 7rem;
+    color:ghostwhite
+    
+}
+.security{
+    width: 100%;
+    margin: auto;
+    
+}
+.security img{
+    padding-left: 45rem;
+  margin-top: -120px;
+position: relative;
+top: -150px;
+}
+.security h3{
+    width: 50%;
+    padding-left: 30rem;
+    position: relative;
+    top: -150px;
+    font-size: 20px;
+}
+.security p{
+    width: 350px;
+    position: relative;
+    top: -150px;
+    padding-left: 38rem;
+text-align: center;
+color: ghostwhite;
+}
+.collaboration{
+    width: 100%;
+    margin: auto;
+}
+.collaboration img{
+    padding-left: 13rem;
+    margin-top: -1em;
+}
+.collaboration h3{
+    width: 50%;
+    font-size: 20px;
+   padding-right: 45rem;
+}
+.collaboration p{
+    width: 350px;
+    text-align: center;
+    padding-left: 7rem;
+    color:ghostwhite;
+}
+.file{
+    width: 100%;
+    margin: auto;
+}
+.file img{
+    padding-left: 45rem;
+  margin-top: -120px;
+position: relative;
+top: -150px;
+}
+.file h3{
+    width: 50%;
+    padding-left: 32rem;
+    position: relative;
+    top: -150px;
+    font-size: 20px;
+}
+.file p{
+    width: 335px;
+    position: relative;
+    top: -150px;
+    padding-left: 38rem;
+text-align: center;
+color: ghostwhite;
+}
+.stay{
+    padding-left: 42rem;
+    position: relative;
+    top: -350px;
+    color: whitesmoke;
+}
+.stay a{
+    color: turquoise;
+}
+.stay img{
+    position: relative;
+    left: 1px;
+    top: 3px;
+    font-size: 1em;
+}
+.sect4{
+    border-radius: 1px;
+    background-color:hsl(219, 30%, 18%);
+    display: flex;
+}
+.Quote{
+    position: relative;
+    bottom: 3rem;
+}
+.quote1{
+   padding-right: 5rem;
+   background-color:hsl(219, 30%, 18%);
+}
+.quote1 img{
+    width: 2rem;
+height: 2rem;
+border-radius: 3rem;
+}
+.satish{
+    padding-left: 4rem;
+    position: relative;
+    bottom: 4rem;
+}
+.satish h6{
+    position: relative;
+    bottom: 1rem;
+    font-size: 8px;
+}
+.quo2{
+    padding-right: 8rem;
+    background-color:hsl(219, 30%, 18%);
+}
+.quo2 img{
+    width: 2rem;
+height: 2rem;
+border-radius: 4rem;
+}
+.quo2 h5{
+    padding-left: 4rem;
+    position: relative;
+    bottom: 4rem;
+}
+.quo2 h6{
+    padding-left: 4rem;
+    position: relative;
+    bottom: 5rem;
+    font-size: 8px;
+
+}
+.quo3_img{
+  position: relative;
+  top: 7rem;
+  right: 16rem;
+}
+.quo3_img img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 4rem;
+}
+.quo3_img h5{
+    position: relative;
+    bottom: 4rem;
+    left: 3rem;
+}
+.quo3_img h6{
+    
+ padding-left: 4rem;
+    position: relative;
+    bottom: 5rem;
+    left: -1rem;
+    font-size: 8px;
+width: 100%; 
+}
+.sec5{
+    display: flex;
+    flex-direction: column;
+    background-color:hsl(217, 28%, 15%);
+    width: 640px;
+    text-align: center;
+    position: relative;
+    left: 13rem;
+    bottom: 3rem;
+    font-size: 13px;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+input{ 
+    position: relative;
+    left: 20rem;
+    bottom: 5rem;
+  border-radius: 3rem;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 20%;
+    height: 1.5rem;
+    margin-right: 1.5rem;
+   
+}
+.input1{
+    background-color:white;
+    color: white;
+    border: none;
+}
+.input2{
+background-color: hsl(176, 68%, 64%);
+width: 15%;
+border-radius: 3rem;
+border: none;
+}
+footer img{
+    size: 3px;
+}
+.footerlocation p{
+    position: relative;
+    bottom: 2rem;
+    left: 2rem;
+    font-size: 15px;
+    width: 30%;
+    color: gray;
+
+}
+.footeremail{
+    display: flex;
+    position: relative;
+    left: 19rem;
+    bottom: 7rem;
+    color: gray;
+}
+.img2{
+    position: relative;
+    top: 3rem;
+    right: 8.8rem;
+    width:1%;
+    height: 12px;
+}
+.p1{
+    color: gray;
+}
+.p2{
+    position: relative;
+    top: 1.8rem;
+    right: 7.8rem;
+    font-size: 15px;
+    color: gray;
+   
+}
+.img1{
+    width: 1%;
+    position: relative;
+    bottom: 2.8rem;
+    right: 1rem;
+}
+.About{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 8rem;
+    right: 30rem;
+    justify-content: space-between;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 12.8rem;
+    right: 23rem;
+}
+.icon{
+    position: relative;
+    left: 55rem;
+    bottom: 20.5rem;
+    width: 10%;
+    height: 10%;
+    border-radius: 10px;
+}
+
+
